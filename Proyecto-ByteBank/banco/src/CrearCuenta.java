@@ -5,5 +5,7 @@ public class CrearCuenta {
 
         primeraCuenta.saldo = 200;
 
+        System.out.println(primeraCuenta.saldo);
+
     }
 }
